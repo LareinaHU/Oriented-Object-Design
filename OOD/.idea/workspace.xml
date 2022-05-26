@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36626d20-5bd5-45d6-9d29-ea00ce3b24e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Javaweb图书管理系统/图书管理系统-JavaWeb/08-项目源码/mybook/mybook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/.idea/libraries/Maven__org_mybatis_mybatis_3_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/.idea/myBatis_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/MyBatis_Demo1/MyBatis_Demo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/MyBatis_Demo1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/MyBatis_Demo1/src/main/java/com/yz/mybatis/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/MyBatis_Demo1/src/main/java/com/yz/mybatis/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/MyBatis_Demo1/src/main/resources/mappers/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/MyBatis_Demo1/src/main/resources/mappers/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/MyBatis_Demo1/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/MyBatis_Demo1/src/test/java/com/yz/mybatis/test/MybatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis2022/myBatis_Java/myBatis_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/OOD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Earth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_1/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_1/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_1/vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/.idea/com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/company/main_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../实战项目/Manufacturing_execution_system/.idea/MES源码+SQL脚本.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ThreadCourse.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="29MNSc0ykDAunDuizqrY83RUuOn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.car">
+    <configuration name="Earth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Earth" />
+      <module name="OOD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zoo" />
+      <module name="OOD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_1.car" />
+      <module name="OOD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.car" />
+        <item itemvalue="Application.Zoo" />
+        <item itemvalue="Application.Earth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36626d20-5bd5-45d6-9d29-ea00ce3b24e0" name="Default Changelist" comment="" />
+      <created>1652918994734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652918994734</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1652930441342">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="653" y="259" key="#com.intellij.ide.util.MemberChooser/0.25.1680.1025@0.25.1680.1025" timestamp="1652930441342" />
+    <state width="1638" height="277" key="GridCell.Tab.0.bottom" timestamp="1652985419936">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="277" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1652985419936" />
+    <state width="1638" height="277" key="GridCell.Tab.0.center" timestamp="1652985419935">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="277" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1652985419935" />
+    <state width="1638" height="277" key="GridCell.Tab.0.left" timestamp="1652985419934">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="277" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1652985419934" />
+    <state width="1638" height="277" key="GridCell.Tab.0.right" timestamp="1652985419935">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="277" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1652985419935" />
+  </component>
+</project>
